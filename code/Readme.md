@@ -41,7 +41,8 @@ The data downloaded was already orginized in a CSV file.
 
 **Step 3**
 
-Looking at the data in the csv file, it is clear that the data needs to be cleaned to remove null values focusing on the research question at hand. For this, the plan is to use python libraries such as Pandas. 
+Looking at the data in the csv file, it is clear that the data needs to be cleaned to remove null values focusing on the research question at hand. For this, the plan is to use python libraries such as Pandas. Chech the data [data processing notebook](Data_processing.ipynb) for a step by step process of how the data was cleaned. 
+Check the [data analysis notebook](Data_Analysis.ipynb) for the code for the prediction task. 
 
 # Data Visualization
 
@@ -176,13 +177,7 @@ Variables: energy_cons_change_pct, renewables_cons_change_pct, countries, year
   </kbd>
 </p>
 
-*Figure 1: Data Query and visualization process flowchart. Created with Whimsical*
 
-### Justification for Dataset Selection
-
-The selection of the OWID Energy Dataset is based on several considerations that align with the research objectives. Our World in Data is a reputable scientific online platform known for providing comprehensive and reliable datasets on global issues, including energy dynamics. The dataset contains a rich collection of variables related to energy consumption, production, and environmental impact, making it well-suited for investigating the impact of external factors on energy anomalies (Rosado et al., 2023).
-
-The OWID Energy Dataset includes relevant variables such as GDP, biofuel consumption, coal usage, gas consumption, nuclear power, oil consumption, hydropower, low-carbon energy, renewables, and others (Rosado et al., 2023). These variables align with the economic indicators, policy changes, and global events outlined in the research questions. Moreover, the dataset provides a comprehensive overview of global energy dynamics, offering a holistic view of the energy landscape. This aligns with the research's goal of understanding the influence of external factors on anomalies in energy consumption and production.
 
 
 ## References
