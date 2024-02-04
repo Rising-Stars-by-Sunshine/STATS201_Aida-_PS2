@@ -41,8 +41,8 @@ The data downloaded was already orginized in a CSV file.
 
 **Step 3**
 
-Looking at the data in the csv file, it is clear that the data needs to be cleaned to remove null values focusing on the research question at hand. For this, the plan is to use python libraries such as Pandas. Chech the data [data processing notebook](Data_processing.ipynb) for a step by step process of how the data was cleaned. 
-Check the [data analysis notebook](Data_Analysis.ipynb) for the code for the prediction task. 
+Looking at the data in the csv file, it is clear that the data needs to be cleaned to remove null values focusing on the research question at hand. For this, the plan is to use python libraries such as Pandas. Chech the data [data processing notebook](Data_Processing_Regression.ipynb) for a step by step process of how the data was cleaned. 
+Check the [data analysis notebook](Data_Analysis_Regression.ipynb) for the code for the prediction task. Also, check [data processing and analysis notebook](Analysis_Processing_Classification.ipynb) for the classification model.
 
 # Data Visualization
 
