@@ -182,4 +182,13 @@ Variables: energy_cons_change_pct, renewables_cons_change_pct, countries, year
 
 ## References
 
+Aydın, Celil, and Ömer Esen. 2018. “Does the Level of Energy Intensity Matter in the Effect of 
+Energy Consumption on the Growth of Transition Economies? Evidence from Dynamic Panel Threshold Analysis.” Energy Economics 69 (January): 185–95. https://doi.org/10.1016/j.eneco.2017.11.010. 
+
+“Measurements of Energy Access: A Better Way? - Energy for Growth Hub.” 2023. Energy for 
+Growth Hub. June 12, 2023. https://energyforgrowth.org/article/measurements-of-energy-access-a-better-way/. 
+
 Rosado, Pablo., Ritchie, Hannah., and Roser, Max. 2023. "Energy." OurWorldInData.org. Retrieved from 'https://ourworldindata.org/energy' [Online Resource].
+
+Zabat, Lotfi Hocine, Naima Akli Sadaoui, Abid Mehdi, and Habib Sekrafi. 2022. “Threshold 
+Effects of Renewable Energy Consumption by Source in U.S. Economy.” Electric Power Systems Research 213 (December): 108669. https://doi.org/10.1016/j.epsr.2022.108669.
