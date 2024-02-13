@@ -7,7 +7,11 @@ Thus, this repository documents the steps in this process. Namely, it includes v
 
 ## Table of Contents
 
-1. [Data](data/Readme.md)
+1. [About the Author](./README.md#about-the-author)
+      - Headshot
+      - Bio and Resume
+      
+2. [Data](data/Readme.md)
    - [Sample Data](./data/owid-energy-data.csv)
    - [Data Description](./data/Readme.md)
 
@@ -23,3 +27,18 @@ Thus, this repository documents the steps in this process. Namely, it includes v
    - [Regression Data Processing](./code/Data_Processing_Regression.ipynb)
    - [Regression Data Analysis](./code/Data_Analysis_Regression.ipynb)
    - [Classification Data Processing and Analysis](./code/Analysis_Processing_Classification.ipynb)
+
+# About the Author
+<p align="center">
+  <kbd>
+    <img src="photo.png" alt="Aida's Photo" width="200" style="border: 2px solid purple !important; padding: 10px;"/>
+  </kbd>
+</p>
+
+## Aida Camacho Ponce de León 👩‍💻🌎
+
+Hi! I'm Aida, originally from 🇲🇽 Mexico. I am form the class of 2026 at Duke Kunshan University. My major is Computation & Design with a track in Social Policy. Academically speaking, I have a deep passion for 💻📚 computational and statistical applications to social science issues, particularly 🌱 environmental policy. I am greatly interested in the intersection between computational and statistical sciences and social science. 
+
+Personally speaking, I find joy in learning new languages and 🌐 connecting with people from diverse parts of the world, embracing various cultures along the way 🌟.
+
+Currently at DKU, I am on a journey to challenge myself academically, socially, and personally.
