@@ -49,8 +49,7 @@ Detailed description of each variable in the dataset.
 | fossil_elec_per_capita            | Electricity generation from fossil fuels per person| Annual| Kilowatt-hour per person| Numeric                | varies                          | 154.7, 130.4                |
 | fossil_electricity                | Electricity generation from fossil fuels        | Annual        | Terawatt-hour          | Numeric                | varies                          | 290.2, 250.6                |
 | fossil_energy_per_capita
-
-           | Primary energy consumption from fossil fuels per capita| Annual| Kilowatt-hour per person| Numeric           | varies                          | 380.5, 320.9                |
+| Primary energy consumption from fossil fuels per capita| Annual| Kilowatt-hour per person| Numeric           | varies                          | 380.5, 320.9                |
 | fossil_fuel_consumption           | Total fossil fuel consumption                   | Annual        | Terawatt-hour          | Numeric                | varies                          | 445.3, 389.7                |
 | fossil_share_elec                 | Share of electricity from fossil fuels          | Annual        | Percentage             | Numeric                | varies                          | 30.4, 25.8                  |
 | fossil_share_energy               | Share of primary energy from fossil fuels       | Annual        | Percentage             | Numeric                | varies                          | 20.5, 15.9                  |
@@ -80,9 +79,7 @@ Detailed description of each variable in the dataset.
 | low_carbon_elec_per_capita        | Electricity generation from low-carbon sources per person| Annual| Kilowatt-hour per person| Numeric    | varies                          | 560.4, 450.2                |
 | low_carbon_electricity            | Electricity generation from low-carbon sources | Annual        | Terawatt-hour          | Numeric                | varies                          | 689.3, 572.7                |
 | low_carbon_share_elec             | Share of electricity from low-carbon sources   | Annual        | Percentage             | Numeric                | varies                          | 55.6, 47.8                  |
-| low_carbon_share_energy           | Share of primary energy from low-carbon sources| Annual        | Percentage             | Numeric                | varies                          | 45
-
-.6, 37.9                  |
+| low_carbon_share_energy           | Share of primary energy from low-carbon sources| Annual        | Percentage             | Numeric                | varies                          | 45.6, 37.9                  |
 | nuclear_cons_change_pct           | Annual percentage change in nuclear energy consumption| Annual | Percentage         | Numeric                | varies                          | 3.2, -2.6                   |
 | nuclear_cons_change_twh           | Annual change in nuclear energy consumption (TWh)| Annual      | Terawatt-hour       | Numeric           | varies                          | 18.3, -12.5                 |
 | nuclear_cons_per_capita           | Primary energy consumption from nuclear per capita| Annual     | Kilowatt-hour per person| Numeric        | varies                          | 430.5, 360.2                |
@@ -120,9 +117,7 @@ Detailed description of each variable in the dataset.
 | solar_cons_change_twh             | Annual change in solar consumption (TWh)       | Annual        | Terawatt-hour          | Numeric                | varies                          | 22.3, -11.6                 |
 | solar_consumption                 | Total solar consumption                        | Annual        | Terawatt-hour          | Numeric                | varies                          | 90.7, 60.5                  |
 | solar_elec_per_capita             | Electricity generation from solar per person    | Annual        | Kilowatt-hour per person| Numeric                | varies                          | 154.4, 130.2                |
-| solar_electricity                 | Electricity generation from solar               | Annual        | Terawatt
-
--hour          | Numeric                | varies                          | 190.2, 152.5                |
+| solar_electricity                 | Electricity generation from solar               | Annual        | Terawatt-hour          | Numeric                | varies                          | 190.2, 152.5                |
 | solar_share_elec                  | Share of electricity from solar                 | Annual        | Percentage             | Numeric                | varies                          | 20.6, 17.8                  |
 | solar_share_energy                | Share of primary energy from solar              | Annual        | Percentage             | Numeric                | varies                          | 15.6, 12.9                  |
 | wind_cons_change_pct              | Annual percentage change in wind consumption    | Annual        | Percentage             | Numeric                | varies                          | 8.2, -5.5                   |
