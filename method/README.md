@@ -1,4 +1,15 @@
-## 1.1. The Prediction Problem - test
+## 1.1. The Prediction Problem
+
+## Prediction Task Workflow 
+<p align="center">
+  <kbd>
+    <img src="mindmaps/Prediction task.png"
+     alt="Flowchart" width="600"/>
+  </kbd>
+</p>
+
+*Figure 1: Flowchart  of the task and workflow. Created with Whimsical* 
+
 
 ## Research Question Formulation:
 
