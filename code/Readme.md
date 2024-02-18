@@ -112,9 +112,12 @@ Variables: energy_cons_change_pct, renewables_cons_change_pct, countries, year
 
 
 # Data Query Process (pseudo-code)
+<img src="pseudo_code.png" alt="peudo_code" width="600"/>
+
+The following is a step by step table showing the rest of the process so far, including the Dash App visualizations 
+
 <img src="data_query_steps.png" alt="step by step" width="600"/>
 
-<img src="pseudo_code.png" alt="peudo_code" width="600"/>
 
 ## Data Query flowchart
 
