@@ -2,6 +2,7 @@
 
 ## Description
 
+Refer to [*Figure 7*](/Readme.md#Data-Query-flowchart) for the flow chart of this step by step explanation of the data query process. 
 **Step 1**
 
 This section describes the data query and data analysis process.
@@ -127,6 +128,7 @@ The following is a step by step table showing the rest of the process so far, in
   </kbd>
 </p>
 
+*Figure 7: Flowcahrt of the Data Query process. Image created with Whimsical*
 
 
 ## References

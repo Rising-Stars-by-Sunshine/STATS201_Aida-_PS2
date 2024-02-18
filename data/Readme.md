@@ -1,8 +1,21 @@
 # Dataset Description
 
+## Dataset Structure
+
+### Overview
+The dataset includes various variables related to global energy dynamics, providing insights into energy consumption, production, and environmental impact.
+
+<p align="center">
+  <kbd>
+    <img src="Data_mindmap.png" alt="Flowchart" width="600"/>
+  </kbd>
+</p>
+
+*Figure 1: Data structure flowchart. Created with Whimsical*
+
 ## Introduction
 
-The dataset provides an overview of global energy dynamics. It shows different variables related to energy consumption, production, and environmental impact. For example, the names of several countries across the world,the year the data was recorded for that particular country, population, GDP, biofuel consumption, coal usage, gas consumption, nuclear power, oil consumption, hydropower, low-carbon energy, renewables (solar and wind power), and electricity generation. The dataset also describes diverse metrics such as per capita measures, annual changes, and percentage shares, offering valuable insights in the global use energy. As the OWID site explains, the "complete Energy dataset is a collection of key metrics maintained by Our World in Data. It is updated regularly and includes data on energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix and other relevant metrics" (Rosado et.al, 2023).
+The dataset provides an overview of global energy dynamics. It shows different variables related to energy consumption, production, and environmental impact. For example, the names of several countries across the world,the year the data was recorded for that particular country, population, GDP, biofuel consumption, coal usage, gas consumption, nuclear power, oil consumption, hydropower, low-carbon energy, renewables (solar and wind power), and electricity generation. The dataset also describes diverse metrics such as per capita measures, annual changes, and percentage shares, offering valuable insights in the global use energy. As the OWID site explains, the "complete Energy dataset is a collection of key metrics maintained by Our World in Data. It is updated regularly and includes data on energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix and other relevant metrics" (Rosado et.al, 2023). Refer to *Figure 1* for an overview of the sturcture of the data. 
 
 ## Data Dictionary
 
@@ -140,19 +153,6 @@ The selection of the OWID Energy Dataset is based on several considerations that
 
 The OWID Energy Dataset includes relevant variables such as GDP, biofuel consumption, coal usage, gas consumption, nuclear power, oil consumption, hydropower, low-carbon energy, renewables, and others (Rosado et al., 2023). These variables align with the economic indicators, policy changes, and global events outlined in the research questions (Coolgeography, n.d.). Moreover, the dataset provides a comprehensive overview of global energy dynamics, offering a holistic view of the energy landscape. This aligns with the research's goal of understanding the influence of external factors on anomalies in energy consumption and production 
 
-
-## Dataset Structure
-
-### Overview
-The dataset includes various variables related to global energy dynamics, providing insights into energy consumption, production, and environmental impact.
-
-<p align="center">
-  <kbd>
-    <img src="Data_mindmap.png" alt="Flowchart" width="600"/>
-  </kbd>
-</p>
-
-*Figure 1: Data structure flowchart. Created with Whimsical*
 
 ## References
 
