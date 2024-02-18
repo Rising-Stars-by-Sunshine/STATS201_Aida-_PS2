@@ -6,7 +6,7 @@ The dataset provides an overview of global energy dynamics. It shows different v
 
 ## Data Dictionary
 
-Detailed description of each variable in the dataset. 
+Detailed description of each variable in the dataset. As the ranges vary per variable, go to [this](variable_ranges.csv) dataset in which the ranges per variable were retrieved. [This](range.ipynb) is the code followed to obtain such ranges.  
 
 
 | Variable Name                     | Description                                      | Frequency     | Unit                   | Type                    | Range                           | Sample Observations          |
