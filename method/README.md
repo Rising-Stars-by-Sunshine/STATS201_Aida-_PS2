@@ -91,9 +91,9 @@ Categorical model. Random Forests are capable of capturing complex, non-linear r
 
 The following workflow was the same for both regression and classification models, for details on how they differed, go to detailed code on both models:
 - Regression Model
-  - [Processing](./code/Data_Processing_Regression.ipynb)
-  - [Analysis](./code/Data_Analysis_Regression.ipynb)
-- [Classification Model](./code/Analysis_Processing_Classification.ipynb)
+  - [Processing](./code/data_analysis/Data_Processing_Regression.ipynb)
+  - [Analysis](./code/data_analysis/Data_Analysis_Regression.ipynb)
+- [Classification Model](./code/data_analysis/Analysis_Processing_Classification.ipynb)
 
 ### Data Processing:
 

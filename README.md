@@ -13,7 +13,7 @@ Thus, this repository documents the steps in this process. Namely, it includes v
       - Bio and Resume
       
 2. [Data](data/Readme.md)
-   - [Queried_data](.data/Queried_data/owid-energy-data.csv)
+   - [Queried_data](./data/Queried_data/owid-energy-data.csv)
    - [Data Description](./data/Readme.md)
    - [Processed_data](./data/Processed_data)
 
