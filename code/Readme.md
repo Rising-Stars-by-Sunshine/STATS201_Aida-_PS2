@@ -113,53 +113,39 @@ Variables: energy_cons_change_pct, renewables_cons_change_pct, countries, year
 
 # Data Query Process (pseudo-code)
 
-````latex
-\begin{table}[H]
-\centering
-\begin{tabular}{|p{0.45\linewidth}|p{0.45\linewidth}|}
-\hline
-\textbf{Python} & \textbf{Java / Go} \\
-\hline
-\begin{verbatim}
-# Data Collection
-# Download Dataset from Our World in Data
-# Exploratory Data Analysis
-# Understand Dataset Structure
-# Data Cleaning and Preprocessing
-# Visualizing Energy Patterns
-# Global Distribution Maps
-# Anomaly Detection Plots
-# Dash App Implementation
-# Time Series Plot Component
-# Global Distribution Maps Component
-# Anomaly Detection Plots Component
-# Interactivity and Filtering
-# Refine Visualizations for Readability
-\end{verbatim}
-&
-\begin{verbatim}
-// Data Collection
-// Download Dataset from Our World in Data
-// Exploratory Data Analysis
-// Understand Dataset Structure
-// Data Cleaning and Preprocessing
-// Visualizing Energy Patterns
-// Global Distribution Maps
-// Anomaly Detection Plots
-// Dash App Implementation
-// Time Series Plot Component
-// Global Distribution Maps Component
-// Anomaly Detection Plots Component
-// Interactivity and Filtering
-// Refine Visualizations for Readability
-\end{verbatim}
-\\
-\hline
-\end{tabular}
-\caption{Pseudo-code for Data Query Process in Major Programming Languages}
-\label{tab:code}
-\end{table}
-
+| Python | Java / Go |
+| ------ | --------- |
+| ```python
+  # Data Collection
+  # Download Dataset from Our World in Data
+  # Exploratory Data Analysis
+  # Understand Dataset Structure
+  # Data Cleaning and Preprocessing
+  # Visualizing Energy Patterns
+  # Global Distribution Maps
+  # Anomaly Detection Plots
+  # Dash App Implementation
+  # Time Series Plot Component
+  # Global Distribution Maps Component
+  # Anomaly Detection Plots Component
+  # Interactivity and Filtering
+  # Refine Visualizations for Readability
+  ``` | ```java
+  // Data Collection
+  // Download Dataset from Our World in Data
+  // Exploratory Data Analysis
+  // Understand Dataset Structure
+  // Data Cleaning and Preprocessing
+  // Visualizing Energy Patterns
+  // Global Distribution Maps
+  // Anomaly Detection Plots
+  // Dash App Implementation
+  // Time Series Plot Component
+  // Global Distribution Maps Component
+  // Anomaly Detection Plots Component
+  // Interactivity and Filtering
+  // Refine Visualizations for Readability
+  ``` |
 
 
 
