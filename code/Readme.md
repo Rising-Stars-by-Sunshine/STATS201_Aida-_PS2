@@ -113,12 +113,7 @@ Variables: energy_cons_change_pct, renewables_cons_change_pct, countries, year
 
 # Data Query Process (pseudo-code)
 
-## 6. Embed in Readme.md:
-
-- **Update Readme.md:**
-  - Embed the visualizations and Dash app in your Readme.md to provide an overview of your research and insights.
-
-```latex
+````latex
 \begin{table}[H]
 \centering
 \begin{tabular}{|p{0.45\linewidth}|p{0.45\linewidth}|}
@@ -164,6 +159,7 @@ Variables: energy_cons_change_pct, renewables_cons_change_pct, countries, year
 \caption{Pseudo-code for Data Query Process in Major Programming Languages}
 \label{tab:code}
 \end{table}
+
 
 
 
