@@ -3,7 +3,7 @@
 ## Prediction Task Workflow 
 <p align="center">
   <kbd>
-    <img src="/Users/aidacamacho/Desktop/github/STATS201_Aida_PS2/mindmaps/Prediction task.png"
+    <img src="/Users/aidacamacho/Desktop/github/STATS201_Aida_PS2/mindmaps/Prediction_task.png"
      alt="Flowchart" width="600"/>
   </kbd>
 </p>
