@@ -18,8 +18,9 @@ Correlation between Economic Factors and Energy Access
 
 ### RQ1: 
 How do economic factors such as GDP per capita correlate with energy access disparities across different regions?
+
 #### Significance:  
-Energy access is related to economic development, and understanding the correlation with economic factors is essential for formulating targeted interventions. Thus, examining the relationship between GDPs per capita with energy access disparities helps policymakers and researchers identify key drivers of inequality. This knowledge can inform policy decisions, focusing on inclusive economic growth and urban planning that considers energy access as an integral component.
+Energy access is related to economic development, and understanding the correlation with economic factors is essential for formulating targeted interventions. Thus, examining the relationship between GDPs per capita with energy access disparities helps policymakers and researchers identify key drivers of inequality. This knowledge can inform policy decisions, focusing on inclusive economic growth and urban planning that considers energy access as an integral component. For example, in their article, "Inclusive Economic Growth: Relationship between Energy and Governance Efficiency" (2023), researchers Aleksy Kwilinski, Oleksii Lyulyov, and Tetyana Pimonenko argue that as the European Union (EU) is striving for carbon neutrality while promoting inclusive economic growth, to achieve this goal they need to implement effective incentives and initiatives. They aregue that "energy sectors are the core determinant of inclusive economic growth", as traditional energy resources (coal) have a higher negative impact on nature and people’s well-being than on economic and social benefits (Kwilinski et.al, 2023). 
 
 ### Objective 2: 
 The objective of this second model is to identify and understand the key factors that contribute to the classification of countries into high, medium, and low energy efficiency levels.
@@ -27,7 +28,7 @@ The objective of this second model is to identify and understand the key factors
 ### RQ2: 
 What factors contribute to the classification of countries into high, medium, and low energy efficiency levels, and can these factors be used to predict a country's energy efficiency?
 #### Significance:  
-The primary aim is to develop a predictive model that leverages these factors to forecast a country's energy efficiency classification accurately. Look at Figure 1 for a detailed flowchart of this workflow, providing an overview of the task.
+The primary aim is to develop a predictive model that leverages these factors to predict a country's energy efficiency classification accurately. The need for such research is connected to what was previously explained of the determining which regions have lower efficiency levels and the reason as to why that is, could also encourage the development and implementation of effective incentives and initiative that lead to such "inclusive economic growth"(Kwilinski et.al, 2023). Look at *Figure 1* for a detailed flowchart of this workflow, providing an overview of the task.
 
 ## Operational Measures:
 
@@ -45,7 +46,7 @@ The primary aim is to develop a predictive model that leverages these factors to
 ### Variables 2:
 
 - **Dependent Variable (Y):** 
-  Energy efficiency level (Categorical). High, Medium, Low (This variable is created)
+  Energy efficiency level (Categorical). High, Medium, Low (This variable is created based on a researched cutting point for the levels of energy, more on this later).
   
 - **Independent Variables (X) (Features):** 
   - Renewable energy percentage/share (`renewables_share_elec`): Percentage of total energy derived from renewable sources.
@@ -57,7 +58,7 @@ The primary aim is to develop a predictive model that leverages these factors to
 Regions with higher GDP per capita will tend to have better energy access, while those with lower economic indicators may face greater energy access disparities.
 
 - **Justification:** 
-This hypothesis is grounded in the idea that economic development, as indicated by higher GDP per capita tends to be associated with improved infrastructure and energy access. Wealthier and more developed regions may have the resources to invest in energy infrastructure, reducing disparities in access.
+This hypothesis is grounded in the idea that economic development, as indicated by higher GDP per capita tends to be associated with improved infrastructure and energy access. Wealthier and more developed regions may have the resources to invest in energy infrastructure, reducing disparities in access. Professor Kelsey Jack, of the University of California at Santa Barbara at a Conference organized by the World Bank and the International Growth Centre on March 3rd-4th 2022, explains that energy is closely intertwined with economic development. She highlights a supposed correlation between higher GDP levels and increased electricity usage, access, reliability, and affordability. Although researchers grapple with understanding the causal relationship between economic growth and energy, it's evident that development cannot occur without heightened energy consumption. She illustrates this point with historical evidence in which, before the industrial revolution, economies relied on limited organic energy sources like firewood and manpower. The adoption of coal as an energy source due to innovation and technological advancements unlocked greater production possibilities, spurring exponential economic growth (Jack, 2022). 
 
 **Machine Learning Algorithm Selection:** 
 The goal is to predict or understand relationships between variables, a linear regression model would be appropriate. 
@@ -66,12 +67,16 @@ The goal is to predict or understand relationships between variables, a linear r
 Regression models provide interpretability to understand the impact of each independent variable on the dependent variable. Given that the relationships between variables may not be highly complex, linear regression or decision trees are appropriate. Regression models can provide insights into the direction and strength of relationships, helping to answer the research questions effectively. Thus, the algorithms chosen are linear regression and random forest.
 
 **Prediction Hypothesis 2:** 
-The combination of renewable energy share (`renewables_share_elec`) and energy intensity (`energy_per_gdp`) can predict the classification of countries into high, medium, and low energy efficiency levels. Specifically, countries with a higher percentage of renewable energy and lower energy intensity are expected to be classified as having high energy efficiency.
+The combination of renewable energy share (`renewables_share_elec`) and energy intensity (`energy_per_gdp`) can predict the classification of countries into high, medium, and low energy efficiency levels. Specifically, countries with a higher percentage of renewable energy and lower energy intensity are expected to be classified as having high energy efficiency. 
 
 - **Justification:** 
-    - Renewable Energy Percentage (X1): Countries with a higher percentage of energy derived from renewable sources are likely to have cleaner and more sustainable energy profiles, contributing positively to their energy efficiency levels. Renewable energy sources are inherently more environmentally friendly and align with global sustainability goals.
-    - Energy Intensity (X2): Energy intensity, representing the amount of energy consumed per unit of GDP, is a key indicator of energy efficiency. Lower energy intensity implies that a country can achieve economic output with less energy consumption, reflecting a more efficient use of energy resources.
-    - Energy Efficiency Level (Y): The classification into high, medium, and low energy efficiency levels provides a meaningful and actionable categorization. It allows for a practical understanding of a country's energy performance and can guide targeted interventions to improve efficiency.
+
+As a research article titled "Sustainable economic performance and transition towards cleaner energy to mitigate climate change risk: evidence from top emerging economies" Bin He, Xiang Ma, Muhammad Nasir Malik, Riazullah Shinwari, Yaode Wang, Lingli Qing, Abd Alwahed Dagestani, and Mohammed Moosa Ageli discusses, there is a link between energy efficiency and energy transition. The study aims to investigate the link between energy efficiency and energy transition, suggesting a focus on renewable energy sources. The primary finding of the study are that energy efficiency has the largest influence on the energy transition, which reinforces the importance of energy efficiency in determining a country's energy profile. Additionally, the findings regarding the influence of GDP and other control variables provide further insights into factors that may affect energy efficiency levels (He et.al, 2022).
+
+  - Renewable Energy Percentage (X1): Countries with a higher percentage of energy derived from renewable sources are likely to have cleaner and more sustainable energy profiles, contributing positively to their energy efficiency levels. Renewable energy sources are inherently more environmentally friendly and align with global sustainability goals (Zabat et al., 2022).
+  - Energy Intensity (X2): Energy intensity, representing the amount of energy consumed per unit of GDP, is a key indicator of energy efficiency. Lower energy intensity implies that a country canachieve economic output with less energy consumption, reflecting a more efficient use of energy resources (Aydın and Esen, 2018).
+  - Energy Efficiency Level (Y): The classification into high, medium, and low energy efficiency levels provides a meaningful and actionable categorization. It allows for a practical understanding of a country's energy performance and can guide targeted interventions to improve efficiency. The cutoff points for this variable are based on an article titled, "Does the level of energy intensity matter in the effect of energy consumption on the growth of transition economies? Evidence from dynamic panel threshold analysis" (Aydin and Esen, 2018).The article defines energy intensity as the measure of energy use efficiency of an economy in the production process. It refers to the amount of energy consumed to generate one unit of income, with lower energy intensity indicating more efficient use of energy. The main objective of the article is the possibility of a non-linear relationship between energy consumption and economic growth, suggesting that there may be a threshold level for energy consumption beyond which its effect on economic growth becomes negative or insignificant. Does, indicating that whilst there is a threshold, the one used in the reaserch presented in this github, a more extensive literature review should be done to determine whether this threshold of classification is accurate. For the purposes of this research, to explore ML classification models, this threshold will be used, however, for policy implementation, an extensive validation of this threshold would have to be performed. 
+
 
 **Machine Learning Algorithm Selection 2:** 
 Using a random forest classifier to test the hypothesis.
@@ -84,7 +89,11 @@ Categorical model. Random Forests are capable of capturing complex, non-linear r
 
 ## Model Development:
 
-The following workflow was the same for both regression and classification models, for details on how they differed, visit my GitHub repository for the detailed code on both models.
+The following workflow was the same for both regression and classification models, for details on how they differed, go to detailed code on both models:
+- Regression Model
+  - [Processing](./code/Data_Processing_Regression.ipynb)
+  - [Analysis](./code/Data_Analysis_Regression.ipynb)
+- [Classification Model](./code/Analysis_Processing_Classification.ipynb)
 
 ### Data Processing:
 
@@ -93,7 +102,7 @@ The following workflow was the same for both regression and classification model
 - Group data by country, getting the average of the other variables.
 - Address any missing values by removing those variables, considering the impact on the variables of interest.
 - **For regression model:** Create a new variable (X variable) GDP per capita using GDP and population variables.
-- **For the classification model:** Create the dependent variable based on the previously defined criteria.
+- **For the classification model:** Create the dependent variable based on the previously defined criteria (Using the threshold retrieved from the article (Aydin and Esen, 2018)).
 
 ### Results Presentation:
 
@@ -116,6 +125,12 @@ The following workflow was the same for both regression and classification model
 ## References:
 
 - Aydın, Celil, and Ömer Esen. 2018. “Does the Level of Energy Intensity Matter in the Effect of Energy Consumption on the Growth of Transition Economies? Evidence from Dynamic Panel Threshold Analysis.” Energy Economics 69 (January): 185–95. [https://doi.org/10.1016/j.eneco.2017.11.010](https://doi.org/10.1016/j.eneco.2017.11.010).
+
+- Bin He, Xiang Ma, Muhammad Nasir Malik, Riazullah Shinwari, Yaode Wang, Lingli Qing, Abd Alwahed Dagestani & Mohammed Moosa Ageli (2023) Sustainable economic performance and transition towards cleaner energy to mitigate climate change risk: evidence from top emerging economies, Economic Research-Ekonomska Istraživanja, 36:3, DOI: [10.1080/1331677X.2022.2154240](10.1080/1331677X.2022.2154240).
+
+- Kelsey Jack. 2023. “How Much Do We Know About the Development Impacts of Energy Infrastructure?” World Bank Blogs (blog). [https://blogs.worldbank.org/energy/how-much-do-we-know-about-development-impacts-energy-infrastructure](https://blogs.worldbank.org/energy/how-much-do-we-know-about-development-impacts-energy-infrastructure).
+
+- Kwilinski, Aleksy, Oleksii Lyulyov, and Tetyana Pimonenko. 2023. "Inclusive Economic Growth: Relationship between Energy and Governance Efficiency" Energies 16, no. 6: 2511. [https://doi.org/10.3390/en16062511](https://doi.org/10.3390/en16062511)
 
 - “Measurements of Energy Access: A Better Way? - Energy for Growth Hub.” 2023. Energy for Growth Hub. June 12, 2023. [https://energyforgrowth.org/article/measurements-of-energy-access-a-better-way/](https://energyforgrowth.org/article/measurements-of-energy-access-a-better-way/).
 
