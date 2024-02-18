@@ -114,11 +114,10 @@ Variables: energy_cons_change_pct, renewables_cons_change_pct, countries, year
 # Data Query Process (pseudo-code)
 
 <p align="center">
-  <kbd>
+  <kbd style="border: none;">
     <img src="data_query_steps.png" alt="step_by_step" width="600"/>
   </kbd>
 </p>
-
 
 ## Data Query flowchart
 
