@@ -113,40 +113,11 @@ Variables: energy_cons_change_pct, renewables_cons_change_pct, countries, year
 
 # Data Query Process (pseudo-code)
 
-| Python | Java / Go |
-| ------ | --------- |
-| ```python
-  # Data Collection
-  # Download Dataset from Our World in Data
-  # Exploratory Data Analysis
-  # Understand Dataset Structure
-  # Data Cleaning and Preprocessing
-  # Visualizing Energy Patterns
-  # Global Distribution Maps
-  # Anomaly Detection Plots
-  # Dash App Implementation
-  # Time Series Plot Component
-  # Global Distribution Maps Component
-  # Anomaly Detection Plots Component
-  # Interactivity and Filtering
-  # Refine Visualizations for Readability
-  ``` | ```java
-  // Data Collection
-  // Download Dataset from Our World in Data
-  // Exploratory Data Analysis
-  // Understand Dataset Structure
-  // Data Cleaning and Preprocessing
-  // Visualizing Energy Patterns
-  // Global Distribution Maps
-  // Anomaly Detection Plots
-  // Dash App Implementation
-  // Time Series Plot Component
-  // Global Distribution Maps Component
-  // Anomaly Detection Plots Component
-  // Interactivity and Filtering
-  // Refine Visualizations for Readability
-  ``` |
-
+<p align="center">
+  <kbd>
+    <img src="data_query_steps.png" alt="step_by_step" width="600"/>
+  </kbd>
+</p>
 
 
 ## Data Query flowchart
