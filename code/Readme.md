@@ -128,7 +128,7 @@ The following is a step by step table showing the rest of the process so far, in
   </kbd>
 </p>
 
-*Figure 7: Flowcahrt of the Data Query process. Image created with Whimsical*
+*Figure 7: Flowchart of the Data Query process. Image created with Whimsical*
 
 
 ## References
