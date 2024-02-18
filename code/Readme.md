@@ -2,7 +2,7 @@
 
 ## Description
 
-Refer to [*Figure 7*](/Readme.md#Data-Query-flowchart) for the flow chart of this step by step explanation of the data query process. 
+Refer to [*Figure 7*](/code/Readme.md#Data-Query-flowchart) for the flow chart of this step by step explanation of the data query process. 
 **Step 1**
 
 This section describes the data query and data analysis process.
