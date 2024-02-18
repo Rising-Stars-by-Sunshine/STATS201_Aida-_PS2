@@ -3,7 +3,7 @@
 ## Prediction Task Workflow 
 <p align="center">
   <kbd>
-    <img src="mindmaps/Prediction task.png"
+    <img src=".mindmaps/Prediction task.png"
      alt="Flowchart" width="600"/>
   </kbd>
 </p>

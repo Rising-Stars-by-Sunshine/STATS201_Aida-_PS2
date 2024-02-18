@@ -3,6 +3,7 @@
 Welcome to my GitHub repository! Here, I am experiencing the world of machine learning and its role in untangling the complexities of real-world issues. In this repository I descibe my research that focuses on the Correlation between Economic Factors and Energy Access and understanding the key factors that contribute to the classification of countries into high, medium, and low energy efficiency levels. As my research delves into the exploration of machine learning methods, it looks to answer the following questions:
 - RQ1: How do economic factors such as GDP per capita correlate with energy access disparities across different regions?
 - RQ2: What factors contribute to the classification of countries into high, medium, and low energy efficiency levels, and can these factors be used to predict a country's energy efficiency?
+
 Thus, this repository documents the steps in this process. Namely, it includes various sections covering literature reviews, research idea, sample data, description of the data, and code from data query and visualization process. 
 
 ## Table of Contents
@@ -12,8 +13,9 @@ Thus, this repository documents the steps in this process. Namely, it includes v
       - Bio and Resume
       
 2. [Data](data/Readme.md)
-   - [Sample Data](./data/owid-energy-data.csv)
+   - [Queried_data](.data/Queried_data/owid-energy-data.csv)
    - [Data Description](./data/Readme.md)
+   - [Processed_data](.data/Processed_data)
 
 3. [Code](code/Readme.md)
    - [Data Query Process](./code/Readme.md#data-query)
