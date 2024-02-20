@@ -41,9 +41,9 @@ Thus, this repository documents the steps in this process. Namely, it includes v
       - [References](./code/README.md#references)
    - [Data Query code](./code/data_query)
    - [Data Analysis](./code/data_analysis)
-      - [Regression Data Processing](./code/Data_Processing_Regression.ipynb)
-      - [Regression Data Analysis](./code/Data_Analysis_Regression.ipynb)
-      - [Classification Data Processing and Analysis](./code/Analysis_Processing_Classification.ipynb)
+      - [Regression Data Processing](./code/data_analysis/Data_Processing_Regression.ipynb)
+      - [Regression Data Analysis](./code/data_analysis/Data_Analysis_Regression.ipynb)
+      - [Classification Data Processing and Analysis](./code/data_analysis/Analysis_Processing_Classification.ipynb)
 
 
 # About the Author
