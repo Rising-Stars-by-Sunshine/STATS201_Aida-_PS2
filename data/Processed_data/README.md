@@ -1,1 +1,1 @@
-This section includes the processed data split into test and train for the Regression Model. For the code on how this data was processed visit [Data Analysis section under code](./code/data_analysis).
+This section includes the processed data split into test and train for the Regression Model. For the code on how this data was processed visit [Data Analysis section under code](/code/data_analysis).
