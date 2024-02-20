@@ -1,3 +1,7 @@
+# METHOD
+
+The following page shows the method and the workflow of the research on the prediciton problem. Namely, it includes the research questions and their significance, the hypothesis, operational measures and the detailed Machine Learning Workflow. 
+
 ## 1.1. The Prediction Problem
 
 ## Prediction Task Workflow 

@@ -1,4 +1,6 @@
-# Dataset Description
+# DATA: Dataset Description
+
+The following page shows the overview of the dataset used for the research. Namely, it includes a description of the dataset and its source, a data dictionary, and the justification of why this dataset is useful to answer the research question. 
 
 ## Dataset Structure
 

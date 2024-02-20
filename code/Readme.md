@@ -1,11 +1,11 @@
-# Data Query
+# CODE: Data Query
+
+This section describes the data query and data analysis process.
 
 ## Description
 
 Refer to [*Figure 7*](/code/Readme.md#Data-Query-flowchart) for the flow chart of this step by step explanation of the data query process. 
 **Step 1**
-
-This section describes the data query and data analysis process.
 
 The data was downloaded from Our World in Data, a scientific online publication focusing on large global problems such as poverty, disease, hunger, climate change, war, existential risks, and inequality (Roser, n.d.). This specific dataset was found under the topic of [Energy](https://ourworldindata.org/energy). The following is the description of the page:
 
