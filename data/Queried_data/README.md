@@ -1,1 +1,1 @@
-This section includes the raw dataset as retrieved from Our World in Data (OWID) [OWID Energy Dataset](owid-energy-data.csv). For the code on how this data was queried visit [Data Query section under code](./code/data_query)
+This section includes the raw dataset as retrieved from Our World in Data (OWID) [OWID Energy Dataset](owid-energy-data.csv). For the code on how this data was queried visit [Data Query section under code](/code/data_query)

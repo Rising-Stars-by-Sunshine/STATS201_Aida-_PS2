@@ -12,24 +12,39 @@ Thus, this repository documents the steps in this process. Namely, it includes v
 1. [About the Author](./README.md#about-the-author)
       - Headshot
       - Bio and Resume
-      
-2. [Data](data/Readme.md)
-   - [Queried_data](./data/Queried_data/owid-energy-data.csv)
-   - [Data Description](./data/Readme.md)
-   - [Processed_data](./data/Processed_data)
 
-3. [Code](code/Readme.md)
-   - [Data Query Process](./code/Readme.md#data-query)
-   - [Sample Code](./code/Readme.md#data-visualization)
+2. [Method](method/Readme.md)
+   - [The Prediction Problem](./method/Readme.md#11-the-prediction-problem)
+      - [Prediction Task Workflow](./method/Readme.md#prediction-task-workflow)
+      - [Research Question Formulation](./method/Readme.md#research-question-formulation)
+      - [Operational Measures](./method/Readme.md#operational-measures) 
+      - [Hypothesis Development](./method/Readme.md#hypothesis-development)
+   - [The Machine Leaning Workflow](./method/Readme.md#12-the-machine-learning-workflow)
+      - [Model Development](./method/Readme.md#model-development) 
+      - [Results Presentation](./method/Readme.md#results-presentation)
+      - [Model Evaluation](./method/Readme.md#model-evaluation)   
+      
+3. [Data](data/Readme.md)
+   - [Queried data](./data/Queried_data)
+   - [Data Description](./data/Readme.md)
+      - [Dataset Sturcture flowchart](./data/Readme.md#dataset-structure)
+      - [Data Dictionary](./data/Readme.md#data-dictionary)
+   - [Processed data](./data/Processed_data)
+
+4. [Code](code/Readme.md)
+   - [Data Query Process Description](./code/Readme.md#data-query)
       - [App of visualization 1](./code/Readme.md#visualization-1)
       - [App of visualization 2](./code/Readme.md#visualization-2)
       - [App of visualization 3](./code/Readme.md#visualization-3)
-   - [Pseudo-code](./code/Readme.md#data-query-process-pseudo-code)
-   - [Flowchart](./code/Readme.md#data-query-flowchart)
-   - [References](./code/Readme.md#references)
-   - [Regression Data Processing](./code/Data_Processing_Regression.ipynb)
-   - [Regression Data Analysis](./code/Data_Analysis_Regression.ipynb)
-   - [Classification Data Processing and Analysis](./code/Analysis_Processing_Classification.ipynb)
+      - [Pseudo-code](./code/Readme.md#data-query-process-pseudo-code)
+      - [Flowchart](./code/Readme.md#data-query-flowchart)
+      - [References](./code/Readme.md#references)
+   - [Data Query code](./code/data_query)
+   - [Data Analysis](./code/data_analysis)
+      - [Regression Data Processing](./code/Data_Processing_Regression.ipynb)
+      - [Regression Data Analysis](./code/Data_Analysis_Regression.ipynb)
+      - [Classification Data Processing and Analysis](./code/Analysis_Processing_Classification.ipynb)
+
 
 # About the Author
 <p align="center">
