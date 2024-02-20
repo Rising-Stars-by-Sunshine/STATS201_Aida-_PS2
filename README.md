@@ -14,12 +14,12 @@ Thus, this repository documents the steps in this process. Namely, it includes v
       - Bio and Resume
 
 2. [Method](method/Readme.md)
-   - [The Prediction Problem](./method/Readme.md#11-the-prediction-problem)
-      - [Prediction Task Workflow](./method/Readme.md#prediction-task-workflow)
-      - [Research Question Formulation](./method/Readme.md#research-question-formulation)
-      - [Operational Measures](./method/Readme.md#operational-measures) 
-      - [Hypothesis Development](./method/Readme.md#hypothesis-development)
-   - [The Machine Leaning Workflow](./method/Readme.md#12-the-machine-learning-workflow)
+   - [The Prediction Problem](/method/Readme.md#11-the-prediction-problem)
+      - [Prediction Task Workflow](/method/Readme.md#prediction-task-workflow)
+      - [Research Question Formulation](/method/Readme.md#research-question-formulation)
+      - [Operational Measures](/method/Readme.md#operational-measures) 
+      - [Hypothesis Development](/method/Readme.md#hypothesis-development)
+   - [The Machine Leaning Workflow](/method/Readme.md#12-the-machine-learning-workflow)
       - [Model Development](./method/Readme.md#model-development) 
       - [Results Presentation](./method/Readme.md#results-presentation)
       - [Model Evaluation](./method/Readme.md#model-evaluation)   
