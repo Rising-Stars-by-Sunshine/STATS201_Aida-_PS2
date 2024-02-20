@@ -13,7 +13,7 @@ Thus, this repository documents the steps in this process. Namely, it includes v
       - Headshot
       - Bio and Resume
 
-2. [Method](method/Readme.md)
+2. [Method](method/README.md)
    - [The Prediction Problem](./method/Readme.md#11-the-prediction-problem)
       - [Prediction Task Workflow](./method/Readme.md#prediction-task-workflow)
       - [Research Question Formulation](./method/Readme.md#research-question-formulation)
