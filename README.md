@@ -49,7 +49,7 @@ Thus, this repository documents the steps in this process. Namely, it includes v
 # About the Author
 <p align="center">
   <kbd>
-    <img src="photo.png" alt="Aida's Photo" width="200" style="border: 2px solid purple !important; padding: 10px;"/>
+    <img src="photo.png" alt="Aida's Photo" width="200"/>
   </kbd>
 </p>
 
